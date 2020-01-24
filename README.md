@@ -1,4 +1,4 @@
-Repositorio com os códigos editados e/ou adaptados para português no decorrer do projeto de análise de redação para o curso
+Repositório com os códigos editados e/ou adaptados para português no decorrer do projeto de análise de redação para o curso
 de Tópicos Avançados em IA
 
 Grupo --> Squad 4:
